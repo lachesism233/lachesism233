@@ -1,6 +1,6 @@
 # Hi, I'm Lachesism
 
-I self-host almost everything: Home Assistant, a NAS, a bunch of Docker containers, a couple of cameras. If something can be automated, it probably already is.
+I self-host almost everything: Home Assistant, a NAS, a bunch of Docker containers. If something can be automated, it probably already is.
 
 Lately I've been messing with local LLMs and AI agents.
 
