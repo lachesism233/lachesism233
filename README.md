@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b26,50:7aa2f7,100:bb9af7&height=220&section=header&text=Lachesism&fontSize=70&fontColor=ffffff&fontAlignY=38&desc=If%20something%20can%20be%20automated%2C%20it%20probably%20already%20is.&descAlignY=58&descSize=16" alt="Lachesism" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b26,50:7aa2f7,100:bb9af7&height=220&section=header&text=Lachesism&fontSize=70&fontColor=ffffff&animation=none&fontAlignY=38&desc=If%20something%20can%20be%20automated%2C%20it%20probably%20already%20is.&descAlignY=58&descSize=16" alt="Lachesism" />
 </p>
 
 I self-host almost everything: Home Assistant, a NAS, a bunch of Docker containers.
