@@ -6,8 +6,6 @@ Lately I've been messing with local LLMs and AI agents.
 
 The rest of the time: CS2.
 
-Zhanjiang, China.
-
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
