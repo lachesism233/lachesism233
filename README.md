@@ -20,11 +20,11 @@ The rest of the time: CS2.
 ### Stats
 
 <p align="center">
-  <img width="92%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=lachesism233&theme=tokyonight" alt="Profile details" />
+  <img width="92%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=lachesism233&theme=tokyonight&v=2" alt="Profile details" />
 </p>
 <p align="center">
-  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=lachesism233&theme=tokyonight" alt="Stats" />
-  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=lachesism233&theme=tokyonight&utcOffset=8" alt="Productive time" />
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=lachesism233&theme=tokyonight&v=2" alt="Stats" />
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=lachesism233&theme=tokyonight&utcOffset=8&v=2" alt="Productive time" />
 </p>
 
 <p align="center">
