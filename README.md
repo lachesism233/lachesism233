@@ -8,8 +8,6 @@ I also build Home Assistant apps — [hassio-addons](https://github.com/lachesis
 
 Lately I've been messing with local LLMs and AI agents.
 
-Otherwise, I'm probably playing CS2.
-
 ### Tech
 
 <p align="center">
